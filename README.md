@@ -26,6 +26,8 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+![Instagram](https://user-images.githubusercontent.com/89627238/136646851-8c3a1160-422a-4833-a712-d55adc770731.gif)
+
 
 <img src='https://i.imgur.com/SVfKEm6.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
